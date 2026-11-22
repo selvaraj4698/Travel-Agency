@@ -408,7 +408,7 @@
 }
 .bottom .background1{
 	position: absolute;
-	top: 52%;
+	top: 50%;
 }
 @media(max-width: 991px){
 	.bottom .background1{
